@@ -4111,3 +4111,31 @@ src/auto/func_02078888.c:
 src/auto/func_020788b0.c:
     complete
     .text       start:0x020788b0 end:0x020788cc
+
+src/auto/func_02003d08.c:
+    complete
+    .text       start:0x02003d08 end:0x02003d5c
+
+src/auto/func_02006204.c:
+    complete
+    .text       start:0x02006204 end:0x0200622c
+
+src/auto/func_0200da2c.c:
+    complete
+    .text       start:0x0200da2c end:0x0200da90
+
+src/auto/func_02014cf0.c:
+    complete
+    .text       start:0x02014cf0 end:0x02014d54
+
+src/auto/func_02014f94.c:
+    complete
+    .text       start:0x02014f94 end:0x02014fd4
+
+src/auto/func_02047404.c:
+    complete
+    .text       start:0x02047404 end:0x020474f0
+
+src/auto/func_02047768.c:
+    complete
+    .text       start:0x02047768 end:0x02047844

@@ -409,3 +409,8 @@ src/auto/func_020762e0.c 1.2/sp2p3 -O4,p -lang c99 -inline on,noauto
 src/auto/func_020769fc.c 1.2/sp2p3
 src/auto/func_020770a4.c 1.2/sp2p3 -O4,p -lang c99 -inline on,noauto
 src/auto/func_020780b0.c 2.0/sp1p5 -O4,p -lang c99 -ipa file -inline on,noauto
+src/auto/func_02003d08.c 1.2/sp2p3
+src/auto/func_02006204.c 1.2/sp2p3
+src/auto/func_0200da2c.c 1.2/sp2p3
+src/auto/func_02014cf0.c 1.2/sp2p3
+src/auto/func_02014f94.c 1.2/sp2p3
