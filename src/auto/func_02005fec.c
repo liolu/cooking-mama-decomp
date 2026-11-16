@@ -7,7 +7,7 @@ typedef int s32;
 typedef volatile u64 vu64;
 typedef volatile u16 vu16;
 typedef s32 BOOL;
-extern void func_02003954(u32 timerNo, void (*func)(void *), void *arg);
+extern void _Z24SetTimerOverflowCallbackiPFviEi(u32 timerNo, void (*func)(void *), void *arg);
 extern BOOL data_020c2f08;
 extern vu64 data_020c2f0c;
 extern void func_02005fec(void);
@@ -24,5 +24,5 @@ void func_02005fec(void) {
         data_020c2f08          = 0;
     }
 
-    func_02003954(0, (void (*)(void *)) func_02005fec, 0);
+    _Z24SetTimerOverflowCallbackiPFviEi(0, (void (*)(void *)) func_02005fec, 0);
 }

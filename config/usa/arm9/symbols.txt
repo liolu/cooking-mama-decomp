@@ -134,9 +134,9 @@ func_02003834 kind:function(arm,size=0x4) addr:0x02003834
 func_02003838 kind:function(arm,size=0x34) addr:0x02003838
 func_0200386c kind:function(arm,size=0x34) addr:0x0200386c
 func_020038a0 kind:function(arm,size=0x48) addr:0x020038a0
-func_020038e8 kind:function(arm,size=0x38) addr:0x020038e8
+_Z24EnableSpecificInterruptsj kind:function(arm,size=0x38) addr:0x020038e8
 func_02003920 kind:function(arm,size=0x34) addr:0x02003920
-func_02003954 kind:function(arm,size=0x4c) addr:0x02003954
+_Z24SetTimerOverflowCallbackiPFviEi kind:function(arm,size=0x4c) addr:0x02003954
 func_020039a0 kind:function(arm,size=0x4c) addr:0x020039a0
 func_020039ec kind:function(arm,size=0x90) addr:0x020039ec
 func_02003a7c kind:function(arm,size=0x18) addr:0x02003a7c
@@ -676,10 +676,10 @@ func_02015ee8 kind:function(arm,size=0x94) addr:0x02015ee8
 func_02015f7c kind:function(arm,size=0x4) addr:0x02015f7c
 func_02015f80 kind:function(arm,size=0x50) addr:0x02015f80
 func_02015fd0 kind:function(arm,size=0x50) addr:0x02015fd0
-func_02016020 kind:function(arm,size=0x58) addr:0x02016020
-func_02016078 kind:function(arm,size=0x1b0) addr:0x02016078
+_ll_udiv kind:function(arm,size=0x58) addr:0x02016020
+_ll_sdiv kind:function(arm,size=0x1b0) addr:0x02016078
 func_02016228 kind:function(arm,size=0x20c) addr:0x02016228
-func_02016434 kind:function(arm,size=0x1e4) addr:0x02016434
+_u32_div_f kind:function(arm,size=0x1e4) addr:0x02016434
 .L_0201643c kind:label(arm) addr:0x0201643c
 func_02016618 kind:function(arm,size=0x4) addr:0x02016618
 func_0201661c kind:function(arm,size=0x8) addr:0x0201661c
@@ -12987,3 +12987,4 @@ data_021174e4 kind:bss addr:0x021174e4
 data_021174e8 kind:bss addr:0x021174e8
 data_021174ec kind:bss addr:0x021174ec
 data_021174f0 kind:bss addr:0x021174f0
+data_020c4f20 kind:bss addr:0x020c4f20
