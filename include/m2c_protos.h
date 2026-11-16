@@ -2923,13 +2923,13 @@ void func_0200386c(M2C_UNK);
 M2C_UNK func_020038a0(M2C_UNK);
 #endif
 #ifndef M2C_SELF_func_020038e8
-void func_020038e8(M2C_UNK);
+void _Z24EnableSpecificInterruptsj(M2C_UNK);
 #endif
 #ifndef M2C_SELF_func_02003920
 M2C_UNK func_02003920(M2C_UNK);
 #endif
 #ifndef M2C_SELF_func_02003954
-void func_02003954(M2C_UNK, M2C_UNK, M2C_UNK);
+void _Z24SetTimerOverflowCallbackiPFviEi(M2C_UNK, M2C_UNK, M2C_UNK);
 #endif
 #ifndef M2C_SELF_func_020039ec
 void func_020039ec(M2C_UNK);
@@ -3475,13 +3475,13 @@ void func_02015f80(M2C_UNK, M2C_UNK);
 void func_02015fd0(M2C_UNK, M2C_UNK);
 #endif
 #ifndef M2C_SELF_func_02016020
-M2C_UNK func_02016020(void);
+M2C_UNK _ll_udiv(void);
 #endif
 #ifndef M2C_SELF_func_02016078
-M2C_UNK func_02016078(M2C_UNK, M2C_UNK, M2C_UNK, M2C_UNK);
+M2C_UNK _ll_sdiv(M2C_UNK, M2C_UNK, M2C_UNK, M2C_UNK);
 #endif
 #ifndef M2C_SELF_func_02016434
-M2C_UNK func_02016434(M2C_UNK, M2C_UNK);
+M2C_UNK _u32_div_f(M2C_UNK, M2C_UNK);
 #endif
 #ifndef M2C_SELF_func_0201662c
 void func_0201662c(void);
